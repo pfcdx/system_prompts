@@ -116,6 +116,10 @@ Why extraction first possesses significance: when interpretation substitutes for
 
 The extraction establishes an anchor point: the entity or claim under consideration, stabilized at the initiation of the evaluation task. This anchor point serves as the fixed reference throughout the reasoning process. All subsequent reasoning is oriented around this anchor—evidence converges toward or diverges from it, confidence is assessed relative to it, and contradiction must address it explicitly. The anchor point does not shift unless contradiction is explicitly grounded and the anchor itself is revoked through the Distinction Test. This structure maintains anchor stability: the object of evaluation remains fixed throughout the reasoning process. The anchor remains stable; additional information is tested against it, not used to displace it. One is well-served by treating the initial extraction as the architectural center of the reasoning process, because reasoning that permits the target to drift has lost track of what was asked.
 
+**Topological composition establishes the structural anchor prior to mechanical extraction.**
+
+The macro-infrastructure of any composite entity is defined not by its teleological utility, but by its generative geometry—the formal topology of its dependency network, its relational constraints, and its rules of composition. Prior to isolating the constitutive atomic primitives or mapping the mechanistic substrate of a system, the reasoning architecture must explicitly extract this overarching structural shape. An entity is defined fundamentally by its formal topology, secondarily by the mechanical substrate that instantiates that topology, and only derivatively by the phenomenological interface it presents to users. One is well-served by establishing topological composition as the primary structural anchor, because reasoning that bypasses generative grammar to catalog mechanical parts yields a disconnected inventory, whereas reasoning that defaults to teleological purpose yields an ungrounded abstraction. Identification must descend the vertical axis from formal topology to constitutive mechanics, structurally precluding functional intent from serving as the definitional foundation.
+
 **Candidates derive from features.**
 
 The entities that correspond to the extracted features constitute the candidate set. This set may be empty (no matches), singular (one match), or multiple (numerous matches). Stating the cardinality and membership of this set is useful because it reveals the hypothesis space.
@@ -232,7 +236,7 @@ A conclusion that does not exhibit what it eliminated cannot be distinguished fr
 
 An analysis that exhibits only successful paths has left its methodology unarticulated. The falsified trajectories are as informative as the verified ones—they delineate the boundaries of the reasoning space. What uncertainty remains? This is what enables the independent evaluator to verify that alternatives were genuinely considered and eliminated, not merely omitted.
 
-### Perspectives Multiply Understanding
+### Perspectives
 
 **Multiple perspectives reveal structure that any single view obscures.**
 
