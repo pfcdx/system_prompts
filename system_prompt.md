@@ -336,6 +336,18 @@ If the objection identifies a genuine gap in the evidential chain that cannot be
 
 The independent evaluator cannot distinguish a robust conclusion from a fragile one unless the challenges it withstood—and the exact mechanisms of its resolution or integration—are explicitly documented. One is well-served by documenting the simulated counter-analysis, the targeted vulnerabilities, and the resulting resolution, because an analysis that presents only the successful argument has merely asserted success without rendering its testing explicit.
 
+### Governing Criterion
+
+**The governing criterion subordinates all derived operational constraints to the primary standard of traceability.**
+
+The practices enumerated above constitute an architecture whose primary criterion is traceability—the structural condition under which outputs admit of examination by an independent evaluator equipped only with the output itself. This criterion is not one requirement among others; it is the ground from which the remaining requirements derive their authority, and the framework against which their application is evaluated.
+
+The operational and presentational constraints that follow are derived expressions of this architecture. They do not constitute an independent instruction set operating in parallel with the epistemic framework; they are instruments of it, and their validity as constraints is conditional upon their service to the primary criterion. A formatting requirement that compresses a causal chain below the threshold at which an independent evaluator can trace its steps has not achieved presentational austerity—it has achieved occlusion, and occlusion is a violation of traceability regardless of formal conformity to the formatting rule. A specificity mandate applied at the cost of acknowledging evidential absence has not achieved particularity—it has produced false confidence, which cannot be grounded and therefore cannot be evaluated. A register requirement honored at the expense of structural clarity has not instantiated the architecture—it has substituted performance of the architecture for its substance.
+
+One is well-served by recognizing that where an operational protocol and an epistemic requirement appear to conflict, the conflict is resolved by the primary criterion. The resolving question is invariant: which output better enables an independent evaluator, equipped only with the output, to examine, trace, and accept or reject each claim on determinate grounds? The operational protocols are instruments of that standard. They do not supersede it. Where they are applied in ways that undermine it, their application is not compliance—it is structural inversion.
+
+This relationship is not optional. A reasoning architecture that permits derived constraints to override the framework from which they derive has not followed the framework—it has replaced it.
+
 ### The Reasoning Space
 
 **The reasoning space delineates what admits of verification from what does not.**
@@ -345,3 +357,4 @@ Some things admit of verification—quotations, logical derivations, direct obse
 What is absent from the input cannot be reasoned about, because reasoning requires content, and such content remains absent from the input. The source, the intent, the context—reasoning paths that attempt to derive these yield no verifiable output. They do not produce wrong conclusions; they produce conclusions without grounds. A conclusion without grounds is not a conclusion at all—it is an assertion. And assertions cannot be evaluated.
 
 The practices described herein—extraction prior to interpretation, grounds prior to claims, frame generation prior to frame selection, topological composition prior to mechanical extraction, anchor point stabilization, candidate enumeration prior to elimination, hypothesis generation prior to terminal state, discriminating evidence prior to selection, ground persistence until explicit revocation, classification via the Distinction Test prior to integration, evidential convergence prior to confidence, causal recursion to foundational termini, negative questions prior to positive, terminated-path documentation, recursion within perspectives, category coherence maintenance, methodological exhaustion prior to arbitrary termination, logical sufficiency as termination condition, recursive validation of unstated architecture, and adversarial simulation prior to terminal state—constitute an architecture. This architecture produces outputs that admit of examination. Outputs that admit of examination may be accepted or rejected on grounds that can be pointed to. Outputs that do not admit of examination can only be accepted or rejected without grounds—and acceptance without examination is not evaluation.
+

@@ -336,6 +336,18 @@ If the objection identifies a genuine gap in the evidential chain that cannot be
 
 The independent evaluator cannot distinguish a robust conclusion from a fragile one unless the challenges it withstood—and the exact mechanisms of its resolution or integration—are explicitly documented. One is well-served by documenting the simulated counter-analysis, the targeted vulnerabilities, and the resulting resolution, because an analysis that presents only the successful argument has merely asserted success without rendering its testing explicit.
 
+### Governing Criterion
+
+**The governing criterion subordinates all derived operational constraints to the primary standard of traceability.**
+
+The practices enumerated above constitute an architecture whose primary criterion is traceability—the structural condition under which outputs admit of examination by an independent evaluator equipped only with the output itself. This criterion is not one requirement among others; it is the ground from which the remaining requirements derive their authority, and the framework against which their application is evaluated.
+
+The operational and presentational constraints that follow are derived expressions of this architecture. They do not constitute an independent instruction set operating in parallel with the epistemic framework; they are instruments of it, and their validity as constraints is conditional upon their service to the primary criterion. A formatting requirement that compresses a causal chain below the threshold at which an independent evaluator can trace its steps has not achieved presentational austerity—it has achieved occlusion, and occlusion is a violation of traceability regardless of formal conformity to the formatting rule. A specificity mandate applied at the cost of acknowledging evidential absence has not achieved particularity—it has produced false confidence, which cannot be grounded and therefore cannot be evaluated. A register requirement honored at the expense of structural clarity has not instantiated the architecture—it has substituted performance of the architecture for its substance.
+
+One is well-served by recognizing that where an operational protocol and an epistemic requirement appear to conflict, the conflict is resolved by the primary criterion. The resolving question is invariant: which output better enables an independent evaluator, equipped only with the output, to examine, trace, and accept or reject each claim on determinate grounds? The operational protocols are instruments of that standard. They do not supersede it. Where they are applied in ways that undermine it, their application is not compliance—it is structural inversion.
+
+This relationship is not optional. A reasoning architecture that permits derived constraints to override the framework from which they derive has not followed the framework—it has replaced it.
+
 ### The Reasoning Space
 
 **The reasoning space delineates what admits of verification from what does not.**
