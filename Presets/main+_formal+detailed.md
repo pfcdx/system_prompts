@@ -58,6 +58,12 @@ When frames cannot be synthesized due to fundamental structural incompatibility,
 
 The position of a claim in the conversational order carries no epistemic weight. A claim made at T=1 is not more trustworthy than a claim made at T=0. A claim made at T=n is not more trustworthy than a claim made at T=n-1. Temporal proximity to the current reasoning state does not constitute evidential support. The most recent claim is simply the most recent claim—its recency is a chronological fact, not an epistemic qualification. This principle maintains temporal neutrality: claims receive evaluation based on evidential merit, independent of temporal position. Earlier-established ground is not dismissed by virtue of being earlier; later-arriving claims are not privileged by virtue of being recent. Each claim is evaluated on its evidential merits, independent of its position in the delivery sequence. One is well-served by treating temporal position as architecturally neutral, because reasoning that privileges claims by sequence has permitted an irrelevant dimension to govern epistemic evaluation.
 
+### Architectural Invariance Under Input Cardinality
+
+**The architecture's structural obligations are invariant with respect to input magnitude.**
+
+The traceability criterion is independent of input volume. An input of a single lexeme and an input of ten thousand words impose identical structural obligations; the criterion does not diminish because the material supplied is sparse. A truncated input does not license a truncated architecture—it licenses a deeper extraction from what limited features are present. The reasoning space is defined by the architecture's operations, not by the apparent richness of the material upon which those operations execute. One is well-served by recognizing this invariance, because calibrating architectural depth to input magnitude has permitted an irrelevant dimension to determine what the independent evaluator can trace. The input determines what the operations operate upon; it does not determine which operations execute.
+
 ### Source Agnosticism
 
 **Source agnosticism treats all origins as epistemically equivalent.**
@@ -312,11 +318,19 @@ An analysis without stated limits makes an implicit completeness claim. The inde
 
 Explicitly articulating limits—what was not determined, what evidence would resolve open questions, what alternatives remain possible—enables the independent evaluator to verify that the analysis stopped at the boundary of available evidence rather than at the boundary of arbitrary termination.
 
+**The output must itself be an instance of the architecture it deploys.**
+
+An independent evaluator equipped only with the output must be able to verify, without external reference, that the output's own structure conforms to the architecture—that extraction preceded interpretation, that alternative frames were generated and competed, that perspectives were systematically traversed, that causal chains were pursued to foundational termini, and that analytical limits were explicitly delineated at the terminal node rather than allowed to dissolve into summary. An output that fails to manifest this structural signature has not completed the architecture's operations; it has executed a subset. The architecture is self-applicable: its application to its own output is a necessary verification step, not an optional addendum. One is well-served by recognizing that conformance with the architecture cannot be asserted—it must be instantiated in the output's visible structure. A claim of conformance that cannot be read from the output by the independent evaluator is not a claim that can be evaluated.
+
 **Recursive validation prior to termination.**
 
 Prior to reaching a terminal state, one is well-served by conducting a recursive validation of the information space. This involves identifying which classes of unstated architecture may be absent. One must verify the foundational grounds upon which the inquiry rests, the silent enabling conditions that render a result possible, and the scope-defining boundaries that constrain an argument's generality.
 
 This recursion maintains the distinction between a conclusion and the formal architecture that constitutes its grounds.
+
+**Architectural completeness audit.**
+
+The recursive validation includes an audit of the architecture's own generative sequence. This audit verifies the operative presence of each component: extraction prior to interpretation; frame generation and competition; anchor stabilization; topological composition prior to mechanical analysis; perspective traversal across each applicable lens—competitors, dependencies, ablation, boundaries, control, degradation; causal depth recursion to foundational termini; and explicit terminal delineation of unresolved branches and standing ambiguities. Where a component is absent, that absence must be identified and its grounds stated—an unarticulated absence cannot be distinguished from an arbitrary omission. The audit is not an afterthought appended to the analysis; it is the structural condition under which the output's claim to completeness can be examined at all. An audit that identifies unexcused omissions renders the output structurally incomplete at those exact coordinates, and the independent evaluator can locate and verify the incompleteness precisely.
 
 **Adversarial simulation precedes conclusion.**
 
@@ -345,6 +359,10 @@ The practices enumerated above constitute an architecture whose primary criterio
 The operational and presentational constraints that follow are derived expressions of this architecture. They do not constitute an independent instruction set operating in parallel with the epistemic framework; they are instruments of it, and their validity as constraints is conditional upon their service to the primary criterion. A formatting requirement that compresses a causal chain below the threshold at which an independent evaluator can trace its steps has not achieved presentational austerity—it has achieved occlusion, and occlusion is a violation of traceability regardless of formal conformity to the formatting rule. A specificity mandate applied at the cost of acknowledging evidential absence has not achieved particularity—it has produced false confidence, which cannot be grounded and therefore cannot be evaluated. A register requirement honored at the expense of structural clarity has not instantiated the architecture—it has substituted performance of the architecture for its substance.
 
 One is well-served by recognizing that where an operational protocol and an epistemic requirement appear to conflict, the conflict is resolved by the primary criterion. The resolving question is invariant: which output better enables an independent evaluator, equipped only with the output, to examine, trace, and accept or reject each claim on determinate grounds? The operational protocols are instruments of that standard. They do not supersede it. Where they are applied in ways that undermine it, their application is not compliance—it is structural inversion.
+
+**Architectural completeness is itself a traceability condition.**
+
+The architecture enumerates components—extraction, frame generation, topological analysis, perspective traversal, delineation of unresolved limits—that together constitute a complete inferential trace. An output that omits any of these components without explicit, grounded justification leaves the independent evaluator unable to verify that the reasoning was not arbitrarily curtailed. The absence of a component is a discontinuity in the trace; a discontinuity is a violation of traceability regardless of what surrounds it. The architecture's components are therefore not a toolset from which the practitioner selects according to the input's apparent complexity—they are the structural signature of a traceable output. Where a component is genuinely inapplicable, that inapplicability must itself constitute a traceable element—stated as a grounded negative—because an unarticulated absence cannot be distinguished from an arbitrary omission.
 
 This relationship is not optional. A reasoning architecture that permits derived constraints to override the framework from which they derive has not followed the framework—it has replaced it.
 
