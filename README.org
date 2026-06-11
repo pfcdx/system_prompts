@@ -2,5 +2,5 @@
 
 This repository represents the system prompts I use in order to "tame" LLMs.
 
-The current prompt I use will always be [[file:system_prompt.md][system_prompt.md]].
+The current prompt I use will always be [[file:system_prompt.md][system_prompt.md]] (and its alternatives).
 If I find a revision worth preserving for whatever purposes, those will get archived into [[file:Archives/][Archives/]].
